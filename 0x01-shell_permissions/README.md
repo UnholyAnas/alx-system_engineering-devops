@@ -1,1 +1,1 @@
-permssions baby
+permissions baby
